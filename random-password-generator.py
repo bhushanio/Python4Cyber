@@ -1,4 +1,4 @@
-#Random Password Generator
+#Strong Random Password Generator
 
 #Libraries
 import random
